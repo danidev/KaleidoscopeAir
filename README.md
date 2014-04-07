@@ -12,8 +12,3 @@ this image: http://www.wecomefromouterspace.com/media/images/live_bunker.jpg sho
 The kaleidoscopic algorithm is based on this: http://www.quasimondo.com/archives/000579.php
 
 Fade-in/fade-out effects are done with the Greensock's Tweenlite library: http://www.greensock.com/tweenlite/
-
-- a
-- b
-- c
-- d
